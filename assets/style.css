@@ -7,6 +7,10 @@
     /* optional color can be #463940 */
 }
 
+body {
+    background-color: #bc4123;
+
+}
 .header {
     display: flex;
     flex-direction: column;
@@ -20,7 +24,7 @@
 }
 
 .top-section {
-    background-color: #0b172a;
+    background-color: #bc4123;
 }
 
 .header nav {
@@ -41,9 +45,34 @@
     list-style-type: none;
 }
 
-.header nav ul {
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
+p {
+    font-size: 18px;
+
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.top-section {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("./Images/avatar.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    height: 447px;
+    width: auto;
+}
 section {
     box-sizing: border-box;
 }
