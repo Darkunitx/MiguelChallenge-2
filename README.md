@@ -14,8 +14,9 @@
 - <a href="https://darkunitx.github.io/MiguelsPortfolio/">My Portfolio Live Website</a>
 - <a href="https://github.com/Darkunitx/MiguelsPortfolio">My Portfolio Github Repo</a>
 
-![top portion screenshot](./assets/images/Screenshotnumba1.jpg "Top-Half of website")
-![bottom portion screenshot](./assets/images/Screenshotnumba2.jpg "bottom half of website")
+![top portion screenshot](./assets/Images/Screenshot1.jpg "Top-portion of website")
+![middle portion screenshot](./assets/Images/Screenshot2.jpg "middle-portion of website")
+![bottom portion screenshot](./assets/Images/Screenshot3.jpg "bottom portion of website")
 
 ## Credits 
 
