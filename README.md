@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Description 
-- This is the very first Website that i have optimized and cleaned up. I did not start this project from scratch since a skeleton had previously been created however i modified various parts of the website including fixing links, making sure that it meets accesibility standards, the elements follow a logical structure independent of styling and positioning and verifying that i have used everything that i've learnt in class so far and applied all of that knowledge here. I have modified the project to test my skills and capabilities with HTML and CSS and to show the world and myself what i am truly capable of. I learnt a lot during the creation/optimization of this website such as the different types of elements and attribute tags in HTML and CSS, The importance of maintaining structure within the various files inclduing the README file but most importantly why it's important to keep projects simple and easy to read not only for myself but for other developers.
+- I have created this portfolio to help further my web developing skills and to show potential hiree seeking companies what i am truly capable of. This Portfolio will help companies understand me and it will make it easier for others to find my work and how to contact me. I've learnt a ton of CSS especially the usage of flex box and making sure that my website works with all sorts of devices/screens.
 
 ## Table of contents
 - [Description](#description)
