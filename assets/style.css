@@ -1,54 +1,8 @@
 * {
     color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
-    /* box color can be #BC4123 */
-    /* optional color can be #463940 */
-}
-
-body {
-    background-color: #0b172a;
-}
-
-main {
-
-}
-
-.header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: #ffffff;
-    background-color: #BC4123;
-}
-
-.sectionmain {
-    margin-bottom: 20px;
-    height: 400px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #ffffff;
-    background-color: #BC4123;
-}
-.header h1 {
-    font-size: 60px;
-}
-
-.header nav {
-    margin-right: 70px;
-    font-size: 20px;
-    font-weight: bolder;
-}
-
-.content {
-    width: 100%;
-    display: flex;
-    flex: auto;
-    padding: 40px;
-}
-
-.header nav ul li {
-    display: inline-block;
-    margin-left: 20px;
-    list-style-type: none;
+    box-sizing: border-box;
+    margin: 6px;
 }
 
 a {
@@ -58,45 +12,93 @@ a {
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 
-h2 {
-    font-size: 50px;
+body {
+    background-color: #0b172a;
 }
 
-
-.top-section {
-    height: 500px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+.header {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    background-color: #e7522d;
+}
+
+.header h1 {
+    font-size: 100px;
+}
+
+.header nav {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     flex: 1 0 400px;
-    justify-content: space-evenly;
-    margin-bottom: 40px;
-    margin-top: 40px;
-    background-image: url("./Images/avatar.jpg");
-    background-size: cover;
-
+    align-items: center;
 }
 
-article {
-    margin-top: 50px;
-    padding: 20px;
+.about-me-section {
+    display: block;
 }
 
-.sectionmain img {
-    height: 260px;
-    width: auto;
+.about-me-section img {
+    height: 400px;
+    width: 400px ;
 }
 
 section {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
     flex: 1 0 400px;
     justify-content: space-evenly;
+    align-content: center;
+}
 
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+article {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1 0 200px;
+    align-items: center;
+    align-content: space-around;
+}
+
+.sectionmain {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+
+.sectionmain img {
+    height: 280px;
+    width: auto;
+}
+
+
+.sectionwork img {
+    height: 440px;
+    width: auto;
 }
 
 .footer {
