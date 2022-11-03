@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Description 
-- I have created this portfolio to help further my web developing skills and to show potential hiree seeking companies what i am truly capable of. This Portfolio will help companies understand me and it will make it easier for others to find my work and how to contact me. I've learnt a ton of CSS especially the usage of flex box and making sure that my website works with all sorts of devices/screens.
+- I have created this portfolio to help further my web developing skills and to show potential hiree seeking companies what i am truly capable of. This Portfolio will help companies understand me and it will make it easier for others to find my work and how to contact me. I've learnt a ton of CSS especially the usage of flex box, restructuring of code in both HTML and CSS and making sure that my website works with all sorts of devices/screens.
 
 ## Table of contents
 - [Description](#description)
@@ -11,6 +11,7 @@
 - [Badges](#badges)
 
 ## Usage
+- <p> This Website will allow users to find my contact info as well as additional links to my other sites </p>
 - <a href="https://darkunitx.github.io/MiguelsPortfolio/">My Portfolio Live Website</a>
 - <a href="https://github.com/Darkunitx/MiguelsPortfolio">My Portfolio Github Repo</a>
 
