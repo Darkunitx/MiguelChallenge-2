@@ -25,6 +25,7 @@
 - Miguel Montenegro  https://github.com/Darkunitx
 - Nicholas Mamberger https://github.com/NickHM05
 - Saiadhuddin Asim   https://github.com/Sal8298
+- Garrett Winter     https://github.com/garrettWinter
 
 ## License
 
