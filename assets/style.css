@@ -14,7 +14,7 @@ p {
 
 /* Main background color */
 body {
-    background-color: #0b172a;
+    background-color: darkcyan;
 }
 
 /* Header flex */
@@ -93,3 +93,9 @@ footer {
     filter:alpha(opacity=70)
     box-shadow: 0 0 0px #000000 !important;
   }
+
+@media (max-width: 1070px) {
+    body {
+      background-color: #4f83bf;
+    }
+}
